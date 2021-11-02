@@ -1,11 +1,11 @@
 #ifndef CHTO_H
 #define CHTO_H
 
-#include <QMainWindow>
-#include <QObject>
-#include <QWidget>
 #include <QPushButton>
+#include <QObject>
 #include <QLabel>
+#include <QMainWindow>
+#include "front.h"
 class chTo : public QMainWindow
 {
     Q_OBJECT

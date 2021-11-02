@@ -11,12 +11,14 @@ CONFIG += c++11
 SOURCES += \
     chto.cpp \
     engto.cpp \
+    front.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
     chto.h \
     engto.h \
+    front.h \
     mainwindow.h
 
 FORMS += \

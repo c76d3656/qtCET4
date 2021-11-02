@@ -1,11 +1,11 @@
 #ifndef ENGTO_H
 #define ENGTO_H
 
-#include <QMainWindow>
-#include <QObject>
-#include <QWidget>
 #include <QPushButton>
+#include <QObject>
 #include <QLabel>
+#include <QMainWindow>
+#include "front.h"
 class engTo : public QMainWindow
 {
     Q_OBJECT
